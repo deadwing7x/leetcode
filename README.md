@@ -1,1 +1,1 @@
-# leetcode
+This repository contains a list of solution for the problems provided in Leetcode. I have broken them down according to the Data Structure on which the question was based upon and the programming language which was used to solve the problem.
