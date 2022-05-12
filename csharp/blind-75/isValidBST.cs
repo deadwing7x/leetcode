@@ -25,7 +25,6 @@ public class Solution {
             return true;
         }
         
-        
         if (node.val <= min || node.val >= max) {
             return false;
         }
